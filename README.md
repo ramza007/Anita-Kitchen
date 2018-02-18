@@ -6,7 +6,7 @@ Created by ***Ramza Reseni***, 17th February
 A landing page made from a visual sample photo that is ment to be a menu!
 
 ---
-##### This is a [Link](https://github.com/ramza007/.git) to my live site on Git Hub where a repository of my work is.
+##### This is a [Link](https://github.com/ramza007/Anita-Kitchen) to my live site on Git Hub where a repository of my work is.
 
 ---
 
@@ -25,6 +25,6 @@ A landing page made from a visual sample photo that is ment to be a menu!
 * Open the *index.html* file and it should be opened in your web browser
 
 ---
-*Copyright and Licence are under **MIT***
+*Copyright and Licence are under [**MIT**](https://github.com/ramza007/Anita-Kitchen/blob/master/LICENSE)*
  
  ©RAMZA | 2018 
