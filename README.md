@@ -6,7 +6,7 @@ Created by ***Ramza Reseni***, 17th February
 A landing page made from a visual sample photo that is ment to be a menu!
 
 ---
-##### This is a [Link](https://github.com/ramza007/ramza-.git) to my live site on Git Hub where a repository of my work is.
+##### This is a [Link](https://github.com/ramza007/.git) to my live site on Git Hub where a repository of my work is.
 
 ---
 
