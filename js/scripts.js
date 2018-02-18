@@ -2,7 +2,7 @@ function openNav() {
     document.getElementById("Nav").style.width = "100%";
 }
 
-/* Close menu when someone clicks on the "x" symbol */
+/* When  "x" symbol is clicked closes the menu */
 function closeNav() {
     document.getElementById("Nav").style.width = "0%";
 }
