@@ -25,6 +25,6 @@ A landing page made from a visual sample photo that is ment to be a menu!
 * Open the *index.html* file and it should be opened in your web browser
 
 ---
-*Copyright and licence are under **MIT***
+*Copyright and Licence are under **MIT***
  
  ©RAMZA | 2018 
